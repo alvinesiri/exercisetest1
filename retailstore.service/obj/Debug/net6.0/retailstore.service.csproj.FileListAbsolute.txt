@@ -1,0 +1,12 @@
+C:\Users\afokeoghene.esiri\Desktop\retailstore\retailstore.service\bin\Debug\net6.0\retailstore.service.deps.json
+C:\Users\afokeoghene.esiri\Desktop\retailstore\retailstore.service\bin\Debug\net6.0\retailstore.service.dll
+C:\Users\afokeoghene.esiri\Desktop\retailstore\retailstore.service\bin\Debug\net6.0\retailstore.service.pdb
+C:\Users\afokeoghene.esiri\Desktop\retailstore\retailstore.service\obj\Debug\net6.0\retailstore.service.csproj.AssemblyReference.cache
+C:\Users\afokeoghene.esiri\Desktop\retailstore\retailstore.service\obj\Debug\net6.0\retailstore.service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afokeoghene.esiri\Desktop\retailstore\retailstore.service\obj\Debug\net6.0\retailstore.service.AssemblyInfoInputs.cache
+C:\Users\afokeoghene.esiri\Desktop\retailstore\retailstore.service\obj\Debug\net6.0\retailstore.service.AssemblyInfo.cs
+C:\Users\afokeoghene.esiri\Desktop\retailstore\retailstore.service\obj\Debug\net6.0\retailstore.service.csproj.CoreCompileInputs.cache
+C:\Users\afokeoghene.esiri\Desktop\retailstore\retailstore.service\obj\Debug\net6.0\retailstore.service.dll
+C:\Users\afokeoghene.esiri\Desktop\retailstore\retailstore.service\obj\Debug\net6.0\refint\retailstore.service.dll
+C:\Users\afokeoghene.esiri\Desktop\retailstore\retailstore.service\obj\Debug\net6.0\retailstore.service.pdb
+C:\Users\afokeoghene.esiri\Desktop\retailstore\retailstore.service\obj\Debug\net6.0\ref\retailstore.service.dll

@@ -1,0 +1,6 @@
+- Open solution using Visual Studio
+- Go to the project retailstore.test and open Exercise1Test.cs
+- Under Exercise1Test update testaffiliates, testcustomers and testemployees with your test data for affiliates, customers and employees respectively
+- Go to the TestNetPayableAmount method and update the Bill with your test parameters and ExpectedPayableAmount with what should be the expected NetPayableAmount
+- Save
+- Go to Tests and run all tests. You can put a wrong amount for ExpectedPayableAmount to see that it fails.
